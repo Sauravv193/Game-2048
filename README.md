@@ -1,4 +1,4 @@
-2048 Game
+2048 Game:
 This project is a simple implementation of the popular 2048 puzzle game, created using HTML, CSS, and JavaScript. The goal of the game is to slide numbered tiles on a grid to combine them and create a tile with the number 2048.
 
 Features:
